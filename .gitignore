@@ -1,0 +1,9 @@
+*.out
+Makefile
+*.cmake
+CMakeCache.txt
+lib_c_ansi.a
+CMakeFiles
+Makefile
+cmake_install.cmake
+
